@@ -13,7 +13,7 @@
   "dependencies": {
     "@mdi/js": "^5.6.55",
     "@types/gravatar": "^1.8.1",
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "estacion": "^1.2.2",
     "gravatar": "^1.8.1",
